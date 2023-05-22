@@ -1,2 +1,2 @@
 r=int(input())
-print(r*r*3.14)
+print("%.2f"%float(r*r*3.14))
